@@ -1,0 +1,7 @@
+[build]
+  publish = "public"
+
+[[redirects]]
+  from = "/aaron-portfolio"
+  to = "/index.html"
+  status = 200
